@@ -53,17 +53,17 @@ p {
 }
 
 #hero {
-    height: 400px;
+    height: 475px;
    position: relative;
-   height: 400px;
-   width: auto;
-   margin-right: auto;
-   margin-left: auto;
+   
+   width: 100%;
+    margin-right: auto; */
+    margin-left: auto; */
    
    
 }
 #firstPic{ 
-   height: 400px;
+   height: 475px;
    width: 100%;
    
    
@@ -102,9 +102,7 @@ nav{
     float: right;
     margin-left: 25px;
 }
-#search{
-    float: left;
-}
+
 
 .content {
     width: 75%;
@@ -241,12 +239,13 @@ nav{
 }
 
 .footer {
-    padding: 20px;
-    clear: both;
+     padding: 20px; */
+     clear: both; */
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
 }
 
 .footer h2 {
     font-size: 20px;
-}
+} 
+
